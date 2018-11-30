@@ -1,0 +1,43 @@
+cairo->Assiut     Vip
+cairo->Alexandria Vip
+cairo->BeniSuief  Express
+cairo->Luxor      Firstclass
+cairo ->Aswan     second class
+cairo->Sohag      Vip
+cairo->Minia      Firstclass
+assiut->Cairo     Vip
+assiut->Minia     second Class
+assiut->Aswan     Vip
+assiut->BeniSuief Vip
+assiut->Sohag     third Class
+assiut->Luxor     Express
+sohag->Assiut     Vip
+sohag->Cairo      Express
+sohag->BeniSuief  Express
+sohag->Aswan      Express
+sohag->Luxor      Express
+sohag->Minia      Express
+minia->Assiut     Vip
+minia->Cairo      Express
+minia->BeniSuief  Express
+minia->Aswan      Vip
+minia->Luxor      Express
+minia->Sohag      Vip
+luxor->Assiut     Vip
+luxor->Cairo      Express
+luxor->BeniSuief  Express
+luxor->Aswan      Vip
+luxor->Minia      Express
+luxor->Sohag      Vip
+BeniSuief->Assiut Vip
+BeniSuief->Cairo  Express
+BeniSuief->Luxor  Vip
+BeniSuief->Aswan  Express
+BeniSuief->Minia  Vip
+BeniSuief->Sohag  Express
+aswan->Assiut     Vip
+aswan->Cairo      Express
+aswan->Luxor      Express
+aswan->Aswan      Express
+aswan->Minia      Express
+aswan->BeniSuief  Express
